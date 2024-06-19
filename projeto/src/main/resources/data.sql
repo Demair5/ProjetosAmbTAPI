@@ -1,0 +1,3 @@
+INSERT INTO project (name, category, status, description) VALUES ('Projeto Limpeza de Rio', 'Meio Ambiente', 'Em andamento', 'Projeto para limpar o rio da cidade.');
+INSERT INTO project (name, category, status, description) VALUES ('Reflorestamento', 'Meio Ambiente', 'Concluído', 'Projeto de reflorestamento de áreas desmatadas.');
+INSERT INTO project (name, category, status, description) VALUES ('Educação Ambiental', 'Educação', 'Em andamento', 'Projeto de educação ambiental nas escolas.');
